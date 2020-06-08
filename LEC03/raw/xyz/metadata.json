@@ -1,0 +1,58 @@
+{
+    "isFile": false,
+    "name": "d10",
+    "children": [
+        {
+            "newname": "gaky23ckazfrs98",
+            "oldname": ".DS_Store",
+            "isFile": true
+        },
+        {
+            "isFile": false,
+            "name": "d20",
+            "children": [
+                {
+                    "newname": "gaky23ckazfrs9s",
+                    "oldname": ".DS_Store",
+                    "isFile": true
+                },
+                {
+                    "isFile": false,
+                    "name": "d40",
+                    "children": []
+                },
+                {
+                    "newname": "gaky23ckazfrs9y",
+                    "oldname": "f1.txt",
+                    "isFile": true
+                }
+            ]
+        },
+        {
+            "isFile": false,
+            "name": "d30",
+            "children": [
+                {
+                    "newname": "gaky23ckazfrsa0",
+                    "oldname": ".DS_Store",
+                    "isFile": true
+                },
+                {
+                    "isFile": false,
+                    "name": "d50",
+                    "children": []
+                },
+                {
+                    "newname": "gaky23ckazfrsa2",
+                    "oldname": "f2.txt",
+                    "isFile": true
+                }
+            ]
+        },
+        {
+            "newname": "gaky23ckazfrsa4",
+            "oldname": "f1.txt",
+            "isFile": true
+        }
+    ]
+}

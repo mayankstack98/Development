@@ -1,0 +1,1 @@
+node tpp.js treefy "/Users/Development/Web Development/LEC03/raw/xyz" "/Users/Development/Web Development/LEC03/raw/destination"
