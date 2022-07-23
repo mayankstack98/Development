@@ -7,7 +7,7 @@
   "description": "",
   "main": "intro.js",
   "dependencies": {
-    "file-type": "^14.6.0",
+    "file-type": "^16.5.4",
     "request": "^2.88.2",
     "uniqid": "^5.2.0"
   },
